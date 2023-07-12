@@ -1,3 +1,5 @@
+See package at https://pypi.org/project/PypolyBest/0.6.11/
+
 ##DOCUMENTATION
 
 PypolyBest has a class named polyBest. 
